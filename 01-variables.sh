@@ -1,7 +1,8 @@
 #!bin/bash
+p1=abhiram
+p2=nanna
 
-
-echo "Abi:: Nanna etho"
-echo "Nanna:: ethonu... aaduko"
-echo "Abhi:: Nanna tinesaa"
-echo " Nanna:: Abhitalli goodu"
+echo "$p1:: $p2 etho"
+echo "$p2:: ethonu... aaduko"
+echo "$p1:: $p2 tinesaa"
+echo " $p2:: $p1 goodu"
